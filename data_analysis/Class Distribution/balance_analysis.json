@@ -1,0 +1,27 @@
+{
+  "issues": [
+    {
+      "dataset": "RBK-VIKING",
+      "issue": "missing_classes",
+      "classes": [
+        "away_player",
+        "referee"
+      ]
+    },
+    {
+      "dataset": "RBK-BODO-part3",
+      "issue": "missing_classes",
+      "classes": [
+        "away_player",
+        "referee"
+      ]
+    }
+  ],
+  "overall_distribution": {
+    "home_player": 119389,
+    "away_player": 53379,
+    "referee": 10414,
+    "ball": 7071
+  },
+  "total_instances": 190253
+}

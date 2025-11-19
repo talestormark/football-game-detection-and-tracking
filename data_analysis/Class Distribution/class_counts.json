@@ -1,0 +1,40 @@
+{
+  "datasets": {
+    "RBK-VIKING": {
+      "home_player": 34123,
+      "away_player": 0,
+      "referee": 0,
+      "ball": 1432
+    },
+    "RBK-AALESUND": {
+      "home_player": 18021,
+      "away_player": 18993,
+      "referee": 3604,
+      "ball": 1662
+    },
+    "RBK-FREDRIKSTAD": {
+      "home_player": 18126,
+      "away_player": 19395,
+      "referee": 3818,
+      "ball": 1478
+    },
+    "RBK-HamKam": {
+      "home_player": 16110,
+      "away_player": 14991,
+      "referee": 2992,
+      "ball": 1253
+    },
+    "RBK-BODO-part3": {
+      "home_player": 33009,
+      "away_player": 0,
+      "referee": 0,
+      "ball": 1246
+    }
+  },
+  "totals": {
+    "home_player": 119389,
+    "away_player": 53379,
+    "referee": 10414,
+    "ball": 7071
+  }
+}

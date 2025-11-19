@@ -1,0 +1,136 @@
+FootballDataset
+ByteTrack
+Traceback (most recent call last):
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 113, in evaluate
+    res[curr_seq] = eval_sequence(curr_seq, dataset, tracker, class_list, metrics_list,
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 224, in eval_sequence
+    seq_res[cls][met_name] = metric.eval_sequence(data)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/metrics/hota.py", line 31, in eval_sequence
+    res[field] = np.zeros((len(self.array_labels)), dtype=np.float)
+  File "/cluster/home/tmstorma/.conda/envs/football_analysis/lib/python3.10/site-packages/numpy/__init__.py", line 397, in __getattr__
+    raise AttributeError(__former_attrs__[attr], name=None)
+AttributeError: module 'numpy' has no attribute 'float'.
+`np.float` was a deprecated alias for the builtin `float`. To avoid this error in existing code, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+The aliases was originally deprecated in NumPy 1.20; for more details and guidance see the original release note at:
+    https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+
+
+
+
+
+FootballDataset
+ByteTrack
+Traceback (most recent call last):
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 139, in evaluate
+    metric.combine_classes_det_averaged(cls_res)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/metrics/hota.py", line 162, in combine_classes_det_averaged
+    res = self._compute_final_fields(res)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/metrics/hota.py", line 176, in _compute_final_fields
+    res['HOTA(0)'] = res['HOTA'][0]
+IndexError: invalid index to scalar variable.
+
+
+
+
+
+FootballDataset
+ByteTrack
+Traceback (most recent call last):
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 113, in evaluate
+    res[curr_seq] = eval_sequence(curr_seq, dataset, tracker, class_list, metrics_list,
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 224, in eval_sequence
+    seq_res[cls][met_name] = metric.eval_sequence(data)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/metrics/hota.py", line 61, in eval_sequence
+    potential_matches_count[gt_ids_t[:, np.newaxis], tracker_ids_t[np.newaxis, :]] += sim_iou
+IndexError: index 24 is out of bounds for axis 0 with size 24
+
+
+
+
+
+FootballDataset
+ByteTrack
+Traceback (most recent call last):
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 113, in evaluate
+    res[curr_seq] = eval_sequence(curr_seq, dataset, tracker, class_list, metrics_list,
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 224, in eval_sequence
+    seq_res[cls][met_name] = metric.eval_sequence(data)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/metrics/identity.py", line 83, in eval_sequence
+    res['IDFN'] = fn_mat[match_rows, match_cols].sum().astype(np.int)
+  File "/cluster/home/tmstorma/.conda/envs/football_analysis/lib/python3.10/site-packages/numpy/__init__.py", line 397, in __getattr__
+    raise AttributeError(__former_attrs__[attr], name=None)
+AttributeError: module 'numpy' has no attribute 'int'.
+`np.int` was a deprecated alias for the builtin `int`. To avoid this error in existing code, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+The aliases was originally deprecated in NumPy 1.20; for more details and guidance see the original release note at:
+    https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+
+
+
+
+
+FootballDataset
+ByteTrack
+Traceback (most recent call last):
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 113, in evaluate
+    res[curr_seq] = eval_sequence(curr_seq, dataset, tracker, class_list, metrics_list,
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 224, in eval_sequence
+    seq_res[cls][met_name] = metric.eval_sequence(data)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/_timing.py", line 17, in wrap
+    result = f(*args, **kw)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/metrics/identity.py", line 83, in eval_sequence
+    res['IDFN'] = fn_mat[match_rows, match_cols].sum().astype(np.int)
+  File "/cluster/home/tmstorma/.conda/envs/football_analysis/lib/python3.10/site-packages/numpy/__init__.py", line 397, in __getattr__
+    raise AttributeError(__former_attrs__[attr], name=None)
+AttributeError: module 'numpy' has no attribute 'int'.
+`np.int` was a deprecated alias for the builtin `int`. To avoid this error in existing code, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+The aliases was originally deprecated in NumPy 1.20; for more details and guidance see the original release note at:
+    https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+
+
+
+
+
+FootballDataset
+ByteTrack
+Traceback (most recent call last):
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 139, in evaluate
+    metric.combine_classes_det_averaged(cls_res)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/metrics/hota.py", line 162, in combine_classes_det_averaged
+    res = self._compute_final_fields(res)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/metrics/hota.py", line 176, in _compute_final_fields
+    res['HOTA(0)'] = res['HOTA'][0]
+IndexError: invalid index to scalar variable.
+
+
+
+
+
+FootballDataset
+ByteTrack
+Traceback (most recent call last):
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/eval.py", line 178, in evaluate
+    details.append(metric.detailed_results(table_res))
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/metrics/_base_metric.py", line 118, in detailed_results
+    detailed_row = self._detailed_row(res)
+  File "/cluster/work/tmstorma/Football2025/tracking/TrackEval/trackeval/metrics/_base_metric.py", line 131, in _detailed_row
+    detailed_row.append(res[h][i])
+IndexError: invalid index to scalar variable.
+
+
+
+
+

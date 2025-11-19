@@ -1,0 +1,230 @@
+{
+  "RBK-VIKING": {
+    "dataset": "RBK-VIKING",
+    "total_tracks": 25,
+    "tracks_with_jumps": 1,
+    "total_jumps": 11,
+    "potential_switches": 0,
+    "jump_details": [
+      {
+        "track_id": "23",
+        "label": "ball",
+        "team": null,
+        "jumps": [
+          {
+            "from_frame": 140,
+            "to_frame": 141,
+            "distance": 1027.1078327030712,
+            "speed": 1027.1078327030712,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 141,
+            "to_frame": 142,
+            "distance": 1025.2722739960348,
+            "speed": 1025.2722739960348,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 200,
+            "to_frame": 201,
+            "distance": 420.4001070408998,
+            "speed": 420.4001070408998,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 201,
+            "to_frame": 202,
+            "distance": 436.78856441074555,
+            "speed": 436.78856441074555,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 271,
+            "to_frame": 272,
+            "distance": 498.37803091629155,
+            "speed": 498.37803091629155,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 276,
+            "to_frame": 277,
+            "distance": 1203.4164906631452,
+            "speed": 1203.4164906631452,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 281,
+            "to_frame": 282,
+            "distance": 796.5335971570817,
+            "speed": 796.5335971570817,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 386,
+            "to_frame": 387,
+            "distance": 878.4104962943009,
+            "speed": 878.4104962943009,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 387,
+            "to_frame": 388,
+            "distance": 907.4827822058113,
+            "speed": 907.4827822058113,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 1256,
+            "to_frame": 1257,
+            "distance": 384.3852177503707,
+            "speed": 384.3852177503707,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 1257,
+            "to_frame": 1258,
+            "distance": 384.3901399619923,
+            "speed": 384.3901399619923,
+            "frame_gap": 1
+          }
+        ]
+      }
+    ],
+    "switch_details": []
+  },
+  "RBK-AALESUND": {
+    "dataset": "RBK-AALESUND",
+    "total_tracks": 47,
+    "tracks_with_jumps": 0,
+    "total_jumps": 0,
+    "potential_switches": 0,
+    "jump_details": [],
+    "switch_details": []
+  },
+  "RBK-FREDRIKSTAD": {
+    "dataset": "RBK-FREDRIKSTAD",
+    "total_tracks": 50,
+    "tracks_with_jumps": 0,
+    "total_jumps": 0,
+    "potential_switches": 0,
+    "jump_details": [],
+    "switch_details": []
+  },
+  "RBK-HamKam": {
+    "dataset": "RBK-HamKam",
+    "total_tracks": 28,
+    "tracks_with_jumps": 1,
+    "total_jumps": 6,
+    "potential_switches": 0,
+    "jump_details": [
+      {
+        "track_id": "24",
+        "label": "ball",
+        "team": null,
+        "jumps": [
+          {
+            "from_frame": 937,
+            "to_frame": 938,
+            "distance": 1405.9233620649456,
+            "speed": 1405.9233620649456,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 938,
+            "to_frame": 939,
+            "distance": 1402.4122075909065,
+            "speed": 1402.4122075909065,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 941,
+            "to_frame": 942,
+            "distance": 834.3452522786955,
+            "speed": 834.3452522786955,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 942,
+            "to_frame": 943,
+            "distance": 829.3052815459455,
+            "speed": 829.3052815459455,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 1263,
+            "to_frame": 1264,
+            "distance": 1208.8581906079803,
+            "speed": 1208.8581906079803,
+            "frame_gap": 1
+          },
+          {
+            "from_frame": 1264,
+            "to_frame": 1265,
+            "distance": 1197.3476461746607,
+            "speed": 1197.3476461746607,
+            "frame_gap": 1
+          }
+        ]
+      }
+    ],
+    "switch_details": []
+  },
+  "RBK-BODO-part3": {
+    "dataset": "RBK-BODO-part3",
+    "total_tracks": 51,
+    "tracks_with_jumps": 2,
+    "total_jumps": 2,
+    "potential_switches": 2,
+    "jump_details": [
+      {
+        "track_id": "2",
+        "label": "player",
+        "team": "home",
+        "jumps": [
+          {
+            "from_frame": 1182,
+            "to_frame": 1183,
+            "distance": 555.4540935126862,
+            "speed": 555.4540935126862,
+            "frame_gap": 1
+          }
+        ]
+      },
+      {
+        "track_id": "11",
+        "label": "player",
+        "team": "home",
+        "jumps": [
+          {
+            "from_frame": 1182,
+            "to_frame": 1183,
+            "distance": 554.1897238311083,
+            "speed": 554.1897238311083,
+            "frame_gap": 1
+          }
+        ]
+      }
+    ],
+    "switch_details": [
+      {
+        "track1_id": "34",
+        "track2_id": "35",
+        "class": "event",
+        "time_gap": 1,
+        "position_distance": 28.548804703524873,
+        "track1_end": 488,
+        "track2_start": 489
+      },
+      {
+        "track1_id": "37",
+        "track2_id": "38",
+        "class": "event",
+        "time_gap": 1,
+        "position_distance": 35.12639249908816,
+        "track1_end": 544,
+        "track2_start": 545
+      }
+    ]
+  }
+}

@@ -1,0 +1,2212 @@
+{
+  "RBK-VIKING": {
+    "total_frames": 1523,
+    "total_tracks": 25,
+    "class_stats": {
+      "ball": {
+        "count": 1,
+        "span": {
+          "min": 1523.0,
+          "max": 1523.0,
+          "mean": 1523.0,
+          "median": 1523.0,
+          "std": 0.0
+        },
+        "continuity": {
+          "min": 0.9402495075508864,
+          "max": 0.9402495075508864,
+          "mean": 0.9402495075508864,
+          "median": 0.9402495075508864,
+          "std": 0.0
+        },
+        "tracks_with_gaps": 1,
+        "total_gaps": 91
+      },
+      "home": {
+        "count": 24,
+        "span": {
+          "min": 281.0,
+          "max": 1523.0,
+          "mean": 1463.625,
+          "median": 1523.0,
+          "std": 249.28594901237415
+        },
+        "continuity": {
+          "min": 0.4962686567164179,
+          "max": 1.0,
+          "mean": 0.9700103185647598,
+          "median": 1.0,
+          "std": 0.10185636970446903
+        },
+        "tracks_with_gaps": 4,
+        "total_gaps": 1004
+      }
+    },
+    "tracks_summary": [
+      {
+        "track_id": "0",
+        "label": "player",
+        "team": "home",
+        "span": 281,
+        "appearances": 281,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "1",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "2",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1413,
+        "gaps": 110,
+        "continuity": 0.927774130006566
+      },
+      {
+        "track_id": "3",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "4",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "5",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "6",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "7",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "8",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "9",
+        "label": "player",
+        "team": "home",
+        "span": 1340,
+        "appearances": 665,
+        "gaps": 675,
+        "continuity": 0.4962686567164179
+      },
+      {
+        "track_id": "10",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "11",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1375,
+        "gaps": 148,
+        "continuity": 0.9028233749179252
+      },
+      {
+        "track_id": "12",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "13",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "14",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "15",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "16",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "17",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "18",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "19",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "20",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "21",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "22",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1452,
+        "gaps": 71,
+        "continuity": 0.953381483913329
+      },
+      {
+        "track_id": "23",
+        "label": "ball",
+        "team": null,
+        "span": 1523,
+        "appearances": 1432,
+        "gaps": 91,
+        "continuity": 0.9402495075508864
+      },
+      {
+        "track_id": "24",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      }
+    ]
+  },
+  "RBK-AALESUND": {
+    "total_frames": 1802,
+    "total_tracks": 47,
+    "class_stats": {
+      "away": {
+        "count": 11,
+        "span": {
+          "min": 975.0,
+          "max": 1802.0,
+          "mean": 1726.8181818181818,
+          "median": 1802.0,
+          "std": 237.7457840872045
+        },
+        "continuity": {
+          "min": 0.9988901220865705,
+          "max": 1.0,
+          "mean": 0.9998991020078701,
+          "median": 1.0,
+          "std": 0.0003190674664684104
+        },
+        "tracks_with_gaps": 1,
+        "total_gaps": 2
+      },
+      "ball": {
+        "count": 1,
+        "span": {
+          "min": 1662.0,
+          "max": 1662.0,
+          "mean": 1662.0,
+          "median": 1662.0,
+          "std": 0.0
+        },
+        "continuity": {
+          "min": 1.0,
+          "max": 1.0,
+          "mean": 1.0,
+          "median": 1.0,
+          "std": 0.0
+        },
+        "tracks_with_gaps": 0,
+        "total_gaps": 0
+      },
+      "event_labels": {
+        "count": 22,
+        "span": {
+          "min": 2.0,
+          "max": 2.0,
+          "mean": 2.0,
+          "median": 2.0,
+          "std": 0.0
+        },
+        "continuity": {
+          "min": 1.0,
+          "max": 1.0,
+          "mean": 1.0,
+          "median": 1.0,
+          "std": 0.0
+        },
+        "tracks_with_gaps": 0,
+        "total_gaps": 0
+      },
+      "home": {
+        "count": 11,
+        "span": {
+          "min": 9.0,
+          "max": 1802.0,
+          "mean": 1639.0,
+          "median": 1802.0,
+          "std": 515.4512586074459
+        },
+        "continuity": {
+          "min": 0.9955604883462819,
+          "max": 1.0,
+          "mean": 0.9995964080314802,
+          "median": 1.0,
+          "std": 0.0012762698658736417
+        },
+        "tracks_with_gaps": 1,
+        "total_gaps": 8
+      },
+      "referee": {
+        "count": 2,
+        "span": {
+          "min": 1802.0,
+          "max": 1802.0,
+          "mean": 1802.0,
+          "median": 1802.0,
+          "std": 0.0
+        },
+        "continuity": {
+          "min": 1.0,
+          "max": 1.0,
+          "mean": 1.0,
+          "median": 1.0,
+          "std": 0.0
+        },
+        "tracks_with_gaps": 0,
+        "total_gaps": 0
+      }
+    },
+    "tracks_summary": [
+      {
+        "track_id": "0",
+        "label": "player",
+        "team": "home",
+        "span": 9,
+        "appearances": 9,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "1",
+        "label": "player",
+        "team": "away",
+        "span": 975,
+        "appearances": 975,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "2",
+        "label": "player",
+        "team": "away",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "3",
+        "label": "player",
+        "team": "home",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "4",
+        "label": "player",
+        "team": "away",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "5",
+        "label": "player",
+        "team": "home",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "6",
+        "label": "player",
+        "team": "home",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "7",
+        "label": "player",
+        "team": "away",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "8",
+        "label": "player",
+        "team": "away",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "9",
+        "label": "player",
+        "team": "referee",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "10",
+        "label": "player",
+        "team": "home",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "11",
+        "label": "player",
+        "team": "home",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "12",
+        "label": "player",
+        "team": "away",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "13",
+        "label": "player",
+        "team": "home",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "14",
+        "label": "player",
+        "team": "home",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "15",
+        "label": "player",
+        "team": "home",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "16",
+        "label": "player",
+        "team": "away",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "17",
+        "label": "player",
+        "team": "away",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "18",
+        "label": "player",
+        "team": "home",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "19",
+        "label": "player",
+        "team": "away",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "20",
+        "label": "player",
+        "team": "away",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "21",
+        "label": "player",
+        "team": "referee",
+        "span": 1802,
+        "appearances": 1802,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "22",
+        "label": "ball",
+        "team": null,
+        "span": 1662,
+        "appearances": 1662,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "23",
+        "label": "player",
+        "team": "home",
+        "span": 1802,
+        "appearances": 1794,
+        "gaps": 8,
+        "continuity": 0.9955604883462819
+      },
+      {
+        "track_id": "24",
+        "label": "player",
+        "team": "away",
+        "span": 1802,
+        "appearances": 1800,
+        "gaps": 2,
+        "continuity": 0.9988901220865705
+      },
+      {
+        "track_id": "25",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "26",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "27",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "28",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "29",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "30",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "31",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "32",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "33",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "34",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "35",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "36",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "37",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "38",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "39",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "40",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "41",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "42",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "43",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "44",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "45",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "46",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      }
+    ]
+  },
+  "RBK-FREDRIKSTAD": {
+    "total_frames": 1816,
+    "total_tracks": 50,
+    "class_stats": {
+      "away": {
+        "count": 11,
+        "span": {
+          "min": 1235.0,
+          "max": 1816.0,
+          "mean": 1763.1818181818182,
+          "median": 1816.0,
+          "std": 167.02575641434802
+        },
+        "continuity": {
+          "min": 1.0,
+          "max": 1.0,
+          "mean": 1.0,
+          "median": 1.0,
+          "std": 0.0
+        },
+        "tracks_with_gaps": 0,
+        "total_gaps": 0
+      },
+      "ball": {
+        "count": 2,
+        "span": {
+          "min": 3.0,
+          "max": 1816.0,
+          "mean": 909.5,
+          "median": 909.5,
+          "std": 906.5
+        },
+        "continuity": {
+          "min": 0.8122246696035242,
+          "max": 1.0,
+          "mean": 0.9061123348017621,
+          "median": 0.9061123348017621,
+          "std": 0.09388766519823788
+        },
+        "tracks_with_gaps": 1,
+        "total_gaps": 341
+      },
+      "event_labels": {
+        "count": 23,
+        "span": {
+          "min": 2.0,
+          "max": 2.0,
+          "mean": 2.0,
+          "median": 2.0,
+          "std": 0.0
+        },
+        "continuity": {
+          "min": 1.0,
+          "max": 1.0,
+          "mean": 1.0,
+          "median": 1.0,
+          "std": 0.0
+        },
+        "tracks_with_gaps": 0,
+        "total_gaps": 0
+      },
+      "home": {
+        "count": 11,
+        "span": {
+          "min": 40.0,
+          "max": 1816.0,
+          "mean": 1654.5454545454545,
+          "median": 1816.0,
+          "std": 510.5641022235492
+        },
+        "continuity": {
+          "min": 0.9592511013215859,
+          "max": 1.0,
+          "mean": 0.9962955546655987,
+          "median": 1.0,
+          "std": 0.011714484724292165
+        },
+        "tracks_with_gaps": 1,
+        "total_gaps": 74
+      },
+      "referee": {
+        "count": 3,
+        "span": {
+          "min": 201.0,
+          "max": 1816.0,
+          "mean": 1277.6666666666667,
+          "median": 1816.0,
+          "std": 761.3183010775163
+        },
+        "continuity": {
+          "min": 0.9253731343283582,
+          "max": 1.0,
+          "mean": 0.9751243781094527,
+          "median": 1.0,
+          "std": 0.03517944185007699
+        },
+        "tracks_with_gaps": 1,
+        "total_gaps": 15
+      }
+    },
+    "tracks_summary": [
+      {
+        "track_id": "0",
+        "label": "player",
+        "team": "away",
+        "span": 1235,
+        "appearances": 1235,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "1",
+        "label": "player",
+        "team": "home",
+        "span": 40,
+        "appearances": 40,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "2",
+        "label": "ball",
+        "team": null,
+        "span": 3,
+        "appearances": 3,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "3",
+        "label": "player",
+        "team": "referee",
+        "span": 201,
+        "appearances": 186,
+        "gaps": 15,
+        "continuity": 0.9253731343283582
+      },
+      {
+        "track_id": "4",
+        "label": "player",
+        "team": "away",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "5",
+        "label": "player",
+        "team": "home",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "6",
+        "label": "player",
+        "team": "home",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "7",
+        "label": "player",
+        "team": "home",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "8",
+        "label": "player",
+        "team": "away",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "9",
+        "label": "player",
+        "team": "away",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "10",
+        "label": "player",
+        "team": "away",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "11",
+        "label": "player",
+        "team": "away",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "12",
+        "label": "player",
+        "team": "home",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "13",
+        "label": "player",
+        "team": "home",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "14",
+        "label": "player",
+        "team": "home",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "15",
+        "label": "player",
+        "team": "away",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "16",
+        "label": "player",
+        "team": "referee",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "17",
+        "label": "player",
+        "team": "away",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "18",
+        "label": "player",
+        "team": "away",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "19",
+        "label": "player",
+        "team": "home",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "20",
+        "label": "player",
+        "team": "home",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "21",
+        "label": "player",
+        "team": "away",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "22",
+        "label": "player",
+        "team": "referee",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "23",
+        "label": "ball",
+        "team": null,
+        "span": 1816,
+        "appearances": 1475,
+        "gaps": 341,
+        "continuity": 0.8122246696035242
+      },
+      {
+        "track_id": "24",
+        "label": "player",
+        "team": "away",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "25",
+        "label": "player",
+        "team": "home",
+        "span": 1816,
+        "appearances": 1742,
+        "gaps": 74,
+        "continuity": 0.9592511013215859
+      },
+      {
+        "track_id": "26",
+        "label": "player",
+        "team": "home",
+        "span": 1816,
+        "appearances": 1816,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "27",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "28",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "29",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "30",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "31",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "32",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "33",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "34",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "35",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "36",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "37",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "38",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "39",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "40",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "41",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "42",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "43",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "44",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "45",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "46",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "47",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "48",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "49",
+        "label": "event_labels",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      }
+    ]
+  },
+  "RBK-HamKam": {
+    "total_frames": 1523,
+    "total_tracks": 28,
+    "class_stats": {
+      "away": {
+        "count": 10,
+        "span": {
+          "min": 1523.0,
+          "max": 1523.0,
+          "mean": 1523.0,
+          "median": 1523.0,
+          "std": 0.0
+        },
+        "continuity": {
+          "min": 0.942875902823375,
+          "max": 1.0,
+          "mean": 0.9843072882468812,
+          "median": 0.9957321076822061,
+          "std": 0.021291324058151054
+        },
+        "tracks_with_gaps": 5,
+        "total_gaps": 239
+      },
+      "ball": {
+        "count": 1,
+        "span": {
+          "min": 1523.0,
+          "max": 1523.0,
+          "mean": 1523.0,
+          "median": 1523.0,
+          "std": 0.0
+        },
+        "continuity": {
+          "min": 0.8227183191070256,
+          "max": 0.8227183191070256,
+          "mean": 0.8227183191070256,
+          "median": 0.8227183191070256,
+          "std": 0.0
+        },
+        "tracks_with_gaps": 1,
+        "total_gaps": 270
+      },
+      "home": {
+        "count": 14,
+        "span": {
+          "min": 2.0,
+          "max": 1523.0,
+          "mean": 1173.4285714285713,
+          "median": 1523.0,
+          "std": 617.5459166601893
+        },
+        "continuity": {
+          "min": 0.790268456375839,
+          "max": 1.0,
+          "mean": 0.9818299811959668,
+          "median": 1.0,
+          "std": 0.0539224826639382
+        },
+        "tracks_with_gaps": 3,
+        "total_gaps": 318
+      },
+      "referee": {
+        "count": 3,
+        "span": {
+          "min": 1332.0,
+          "max": 1523.0,
+          "mean": 1459.3333333333333,
+          "median": 1523.0,
+          "std": 90.03826347108705
+        },
+        "continuity": {
+          "min": 0.23648648648648649,
+          "max": 1.0,
+          "mean": 0.6647338408664738,
+          "median": 0.757715036112935,
+          "std": 0.31856171388658006
+        },
+        "tracks_with_gaps": 2,
+        "total_gaps": 1386
+      }
+    },
+    "tracks_summary": [
+      {
+        "track_id": "0",
+        "label": "player",
+        "team": "home",
+        "span": 1192,
+        "appearances": 942,
+        "gaps": 250,
+        "continuity": 0.790268456375839
+      },
+      {
+        "track_id": "1",
+        "label": "player",
+        "team": "referee",
+        "span": 1332,
+        "appearances": 315,
+        "gaps": 1017,
+        "continuity": 0.23648648648648649
+      },
+      {
+        "track_id": "2",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "3",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1469,
+        "gaps": 54,
+        "continuity": 0.9645436638214051
+      },
+      {
+        "track_id": "4",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "5",
+        "label": "player",
+        "team": "referee",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "6",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "7",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1509,
+        "gaps": 14,
+        "continuity": 0.9908076165462902
+      },
+      {
+        "track_id": "8",
+        "label": "player",
+        "team": "away",
+        "span": 1523,
+        "appearances": 1436,
+        "gaps": 87,
+        "continuity": 0.942875902823375
+      },
+      {
+        "track_id": "9",
+        "label": "player",
+        "team": "away",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "10",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "11",
+        "label": "player",
+        "team": "away",
+        "span": 1523,
+        "appearances": 1445,
+        "gaps": 78,
+        "continuity": 0.9487852921864741
+      },
+      {
+        "track_id": "12",
+        "label": "player",
+        "team": "away",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "13",
+        "label": "player",
+        "team": "away",
+        "span": 1523,
+        "appearances": 1476,
+        "gaps": 47,
+        "continuity": 0.96913985554826
+      },
+      {
+        "track_id": "14",
+        "label": "player",
+        "team": "away",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "15",
+        "label": "player",
+        "team": "referee",
+        "span": 1523,
+        "appearances": 1154,
+        "gaps": 369,
+        "continuity": 0.757715036112935
+      },
+      {
+        "track_id": "16",
+        "label": "player",
+        "team": "away",
+        "span": 1523,
+        "appearances": 1509,
+        "gaps": 14,
+        "continuity": 0.9908076165462902
+      },
+      {
+        "track_id": "17",
+        "label": "player",
+        "team": "away",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "18",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "19",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "20",
+        "label": "player",
+        "team": "away",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "21",
+        "label": "player",
+        "team": "away",
+        "span": 1523,
+        "appearances": 1510,
+        "gaps": 13,
+        "continuity": 0.9914642153644123
+      },
+      {
+        "track_id": "22",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "23",
+        "label": "player",
+        "team": "home",
+        "span": 1523,
+        "appearances": 1523,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "24",
+        "label": "ball",
+        "team": null,
+        "span": 1523,
+        "appearances": 1253,
+        "gaps": 270,
+        "continuity": 0.8227183191070256
+      },
+      {
+        "track_id": "25",
+        "label": "player",
+        "team": "home",
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "26",
+        "label": "player",
+        "team": "home",
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "27",
+        "label": "player",
+        "team": "home",
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      }
+    ]
+  },
+  "RBK-BODO-part3": {
+    "total_frames": 1496,
+    "total_tracks": 51,
+    "class_stats": {
+      "ball": {
+        "count": 1,
+        "span": {
+          "min": 1496.0,
+          "max": 1496.0,
+          "mean": 1496.0,
+          "median": 1496.0,
+          "std": 0.0
+        },
+        "continuity": {
+          "min": 0.8328877005347594,
+          "max": 0.8328877005347594,
+          "mean": 0.8328877005347594,
+          "median": 0.8328877005347594,
+          "std": 0.0
+        },
+        "tracks_with_gaps": 1,
+        "total_gaps": 250
+      },
+      "event": {
+        "count": 26,
+        "span": {
+          "min": 2.0,
+          "max": 2.0,
+          "mean": 2.0,
+          "median": 2.0,
+          "std": 0.0
+        },
+        "continuity": {
+          "min": 1.0,
+          "max": 1.0,
+          "mean": 1.0,
+          "median": 1.0,
+          "std": 0.0
+        },
+        "tracks_with_gaps": 0,
+        "total_gaps": 0
+      },
+      "home": {
+        "count": 24,
+        "span": {
+          "min": 1012.0,
+          "max": 1496.0,
+          "mean": 1458.1666666666667,
+          "median": 1496.0,
+          "std": 125.7774710439919
+        },
+        "continuity": {
+          "min": 0.040513833992094864,
+          "max": 1.0,
+          "mean": 0.9211592782281338,
+          "median": 1.0,
+          "std": 0.2559488195718331
+        },
+        "tracks_with_gaps": 5,
+        "total_gaps": 1987
+      }
+    },
+    "tracks_summary": [
+      {
+        "track_id": "0",
+        "label": "player",
+        "team": "home",
+        "span": 1072,
+        "appearances": 113,
+        "gaps": 959,
+        "continuity": 0.10541044776119403
+      },
+      {
+        "track_id": "1",
+        "label": "player",
+        "team": "home",
+        "span": 1012,
+        "appearances": 41,
+        "gaps": 971,
+        "continuity": 0.040513833992094864
+      },
+      {
+        "track_id": "2",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "3",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "4",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "5",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1472,
+        "gaps": 24,
+        "continuity": 0.983957219251337
+      },
+      {
+        "track_id": "6",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "7",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "8",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "9",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "10",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1483,
+        "gaps": 13,
+        "continuity": 0.9913101604278075
+      },
+      {
+        "track_id": "11",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "12",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "13",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1476,
+        "gaps": 20,
+        "continuity": 0.9866310160427807
+      },
+      {
+        "track_id": "14",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "15",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "16",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "17",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "18",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "19",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "20",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "21",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "22",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "23",
+        "label": "player",
+        "team": "home",
+        "span": 1496,
+        "appearances": 1496,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "24",
+        "label": "ball",
+        "team": null,
+        "span": 1496,
+        "appearances": 1246,
+        "gaps": 250,
+        "continuity": 0.8328877005347594
+      },
+      {
+        "track_id": "25",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "26",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "27",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "28",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "29",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "30",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "31",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "32",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "33",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "34",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "35",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "36",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "37",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "38",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "39",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "40",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "41",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "42",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "43",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "44",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "45",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "46",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "47",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "48",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "49",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      },
+      {
+        "track_id": "50",
+        "label": "event",
+        "team": null,
+        "span": 2,
+        "appearances": 2,
+        "gaps": 0,
+        "continuity": 1.0
+      }
+    ]
+  }
+}
