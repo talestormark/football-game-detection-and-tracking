@@ -1,0 +1,54 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset files (large, shouldn't be versioned)
+dataset/
+data/
+*.mp4
+*.avi
+*.mov
+
+# Model outputs (large, regenerable)
+runs/
+training/
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and temporary files
+*.log
+.cache/
+wandb/
+tensorboard/
+logs/
+tmp/
+temp/
+
+# Project-specific
+CLAUDE.md
