@@ -169,7 +169,6 @@ All deliverables located in `tracking/visualizations/`:
 - Minimal and necessary code only
 - Clean, readable, well-structured
 - Clear variable names and concise comments
-- No auto-generated modifications without approval
 
 ## References
 
