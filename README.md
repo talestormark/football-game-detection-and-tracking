@@ -164,12 +164,6 @@ All deliverables located in `tracking/visualizations/`:
 - **Class 2 (referee)**: Match officials
 - **Class 3 (ball)**: Football
 
-## Implementation Details
-
-For complete implementation instructions, dataset preparation workflows, and training strategies, see:
-- **CLAUDE.md**: Comprehensive project guide with step-by-step instructions
-- **Individual reports**: Each `data_analysis/` subdirectory contains detailed findings
-
 ## Code Style
 
 - Minimal and necessary code only
