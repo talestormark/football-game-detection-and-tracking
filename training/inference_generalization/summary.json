@@ -1,0 +1,70 @@
+{
+  "detailed_results": [
+    {
+      "dataset": "RBK-VIKING",
+      "frame": "frame_000100",
+      "home": 19,
+      "away": 3,
+      "referee": 4,
+      "ball": 1
+    },
+    {
+      "dataset": "RBK-VIKING",
+      "frame": "frame_000500",
+      "home": 17,
+      "away": 4,
+      "referee": 7,
+      "ball": 1
+    },
+    {
+      "dataset": "RBK-BODO-part3",
+      "frame": "frame_000100",
+      "home": 10,
+      "away": 10,
+      "referee": 2,
+      "ball": 1
+    },
+    {
+      "dataset": "RBK-BODO-part3",
+      "frame": "frame_000500",
+      "home": 10,
+      "away": 10,
+      "referee": 1,
+      "ball": 1
+    }
+  ],
+  "merged_results": [
+    {
+      "dataset": "RBK-VIKING",
+      "frame": "frame_000100",
+      "player": 26,
+      "ball": 1
+    },
+    {
+      "dataset": "RBK-VIKING",
+      "frame": "frame_000500",
+      "player": 28,
+      "ball": 1
+    },
+    {
+      "dataset": "RBK-BODO-part3",
+      "frame": "frame_000100",
+      "player": 22,
+      "ball": 1
+    },
+    {
+      "dataset": "RBK-BODO-part3",
+      "frame": "frame_000500",
+      "player": 21,
+      "ball": 1
+    }
+  ],
+  "statistics": {
+    "total_frames": 4,
+    "total_player_detections": 97,
+    "total_ball_detections": 4,
+    "avg_players_per_frame": 24.2,
+    "avg_balls_per_frame": 1.0,
+    "ball_detection_rate": 100.0
+  }
+}

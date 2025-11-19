@@ -27,7 +27,6 @@ data/
 
 # Model outputs (large, regenerable)
 runs/
-training/
 *.pt
 *.pth
 *.onnx

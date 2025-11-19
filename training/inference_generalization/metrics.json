@@ -1,0 +1,122 @@
+{
+  "detailed_results": [
+    {
+      "dataset": "RBK-VIKING",
+      "frame": "frame_000100",
+      "gt_player": 23,
+      "gt_ball": 1,
+      "pred_player": 26,
+      "pred_ball": 1,
+      "player": {
+        "precision": 0.885,
+        "recall": 1.0,
+        "mAP50": 0.885,
+        "mAP50_95": 0.865,
+        "TP": 23,
+        "FP": 3,
+        "FN": 0
+      },
+      "ball": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "mAP50": 1.0,
+        "mAP50_95": 0.5,
+        "TP": 1,
+        "FP": 0,
+        "FN": 0
+      }
+    },
+    {
+      "dataset": "RBK-VIKING",
+      "frame": "frame_000500",
+      "gt_player": 22,
+      "gt_ball": 0,
+      "pred_player": 28,
+      "pred_ball": 1,
+      "player": {
+        "precision": 0.786,
+        "recall": 1.0,
+        "mAP50": 0.786,
+        "mAP50_95": 0.732,
+        "TP": 22,
+        "FP": 6,
+        "FN": 0
+      },
+      "ball": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "mAP50": 0,
+        "mAP50_95": 0,
+        "TP": 0,
+        "FP": 0,
+        "FN": 0
+      }
+    },
+    {
+      "dataset": "RBK-BODO-part3",
+      "frame": "frame_000100",
+      "gt_player": 22,
+      "gt_ball": 1,
+      "pred_player": 22,
+      "pred_ball": 1,
+      "player": {
+        "precision": 0.955,
+        "recall": 0.955,
+        "mAP50": 0.955,
+        "mAP50_95": 0.955,
+        "TP": 21,
+        "FP": 1,
+        "FN": 1
+      },
+      "ball": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "mAP50": 1.0,
+        "mAP50_95": 1.0,
+        "TP": 1,
+        "FP": 0,
+        "FN": 0
+      }
+    },
+    {
+      "dataset": "RBK-BODO-part3",
+      "frame": "frame_000500",
+      "gt_player": 22,
+      "gt_ball": 1,
+      "pred_player": 21,
+      "pred_ball": 1,
+      "player": {
+        "precision": 1.0,
+        "recall": 0.955,
+        "mAP50": 1.0,
+        "mAP50_95": 0.976,
+        "TP": 21,
+        "FP": 0,
+        "FN": 1
+      },
+      "ball": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "mAP50": 1.0,
+        "mAP50_95": 1.0,
+        "TP": 1,
+        "FP": 0,
+        "FN": 0
+      }
+    }
+  ],
+  "average_metrics": {
+    "player": {
+      "precision": 0.906,
+      "recall": 0.978,
+      "mAP50": 0.906,
+      "mAP50_95": 0.882
+    },
+    "ball": {
+      "precision": 0.75,
+      "recall": 0.75,
+      "mAP50": 0.75,
+      "mAP50_95": 0.625
+    }
+  }
+}
